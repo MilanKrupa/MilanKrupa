@@ -37,7 +37,7 @@ Feel free to contact me anytime!
 
 <p align="center">
   <a href="https://github.com/MilanKrupa">
-  <img height="180em"src="https://github-readme-stats.vercel.app/api/?username=MilanKrupa&count_private=true&show_icons=true&title_color=4A7BE2&icon_color=52B0DF&text_color=EAB443&bg_color=10121C&hide_border=true&custom_title=My%20Stats"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MilanKrupa&layout=compact&text_color=EAB443&bg_color=10121C&title_color=4A7BE2&hide_border=true&custom_title=Languages%20I%20Use" />
+  <img height="160em"src="https://github-readme-stats.vercel.app/api/?username=MilanKrupa&count_private=true&show_icons=true&title_color=4A7BE2&icon_color=52B0DF&text_color=EAB443&bg_color=10121C&hide_border=true&custom_title=My%20Stats"/>
+    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MilanKrupa&layout=compact&text_color=EAB443&bg_color=10121C&title_color=4A7BE2&hide_border=true&custom_title=Languages%20I%20Use" />
 </a>
 <p>
