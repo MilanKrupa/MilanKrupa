@@ -34,7 +34,10 @@ Feel free to contact me anytime!
 ![MySQL](https://img.shields.io/badge/-MySQL-10121C?style=flat&logo=mysql&logoColor=white)
 
 #### ⚙️ &nbsp;GitHub Analytics
+
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/?username=MilanKrupa&count_private=true&hide=prs,issues&show_icons=true&title_color=4A7BE2&icon_color=52B0DF&text_color=EAB443&bg_color=10121C&hide_border=true&custom_title=My%20Stats" alt="github stats"/>
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MilanKrupa&layout=compact&text_color=EAB443&bg_color=10121C&title_color=4A7BE2&hide_border=true&custom_title=Languages%20I%20Use" />
+  <a href="https://github.com/MilanKrupa">
+  <img height="180em"src="https://github-readme-stats.vercel.app/api/?username=MilanKrupa&count_private=true&show_icons=true&title_color=4A7BE2&icon_color=52B0DF&text_color=EAB443&bg_color=10121C&hide_border=true&custom_title=My%20Stats"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MilanKrupa&layout=compact&text_color=EAB443&bg_color=10121C&title_color=4A7BE2&hide_border=true&custom_title=Languages%20I%20Use" />
+</a>
 <p>
