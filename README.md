@@ -3,9 +3,9 @@
     Hi, I'm Milan <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px"> Welcome to my profile!
   </h2>
   <p align="center">
-    <a href="https://www.linkedin.com/in/milan-krupa-228b641b6/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"/>     </a>
-    <a href="https://dribbble.com/Milan_Krupa"><img src="https://img.shields.io/badge/-Dribbble-e34582?style=flat&logo=Dribbble&logoColor=white" alt="Dribbble"/></a>
-    <a href="mailto:milan.krupa9521@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail"/></a>
+    <a href="https://www.linkedin.com/in/MilanKrupa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://dribbble.com/Milan_Krupa" target="_blank"><img src="https://img.shields.io/badge/-Dribbble-e34582?style=flat&logo=Dribbble&logoColor=white" alt="Dribbble"/></a> 
+    <a href="mailto:milan.krupa9521@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail"/></a>
   </p>
 </div>
 
