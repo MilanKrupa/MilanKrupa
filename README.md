@@ -10,7 +10,7 @@
 </div>
 
 #### 👨🏻‍💻 &nbsp;About Me
-I am an aspiring 19-year-old highschool student interested in Front-End technologies and UI/UX Design.<br>
+I am 19-year-old programmer interested in Front-End technologies, React.js enviroment and UI/UX Design.<br>
 Feel free to contact me anytime!
 
 #### 🛠 &nbsp;Tech Stack
